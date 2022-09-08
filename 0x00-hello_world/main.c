@@ -15,8 +15,7 @@
 int main(void)
 	
 {
-
-	prinf("I love ALX program");
+	
 	return (0);
 	
 }
