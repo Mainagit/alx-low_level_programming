@@ -3,9 +3,10 @@
 #include <time.h>
 
 /**
- *main -computs  random numbers
+ *main - computs  random numbers
  *
- *return: 1 (sucess)
+ *description: the function outputs the last digits
+ *Return: return an integer when succefull
  */
 
 int main(void)
