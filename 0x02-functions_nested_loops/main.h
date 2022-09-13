@@ -2,4 +2,4 @@
 /**
  *contains function prototype /decrations
  */
-int putchar();
+int _putchar(char c);
