@@ -5,7 +5,7 @@
 *@b:second integer
 *Return: 0
 */
-mul(int a, int b)
+int mul(int a, int b)
 {
 	return (a * b);
 }
